@@ -1,0 +1,4 @@
+[data-aos^=zoom][data-aos^=zoom] {
+    opacity: 1 !important;
+    transition-property: opacity,transform;
+}

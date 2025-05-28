@@ -1,0 +1,11 @@
+#header-nav.fixed-top {
+    position: fixed;
+    background: #ef0454b5!important;
+    padding-top: 0.36em;
+    padding-bottom: 0.36em;
+ 
+}
+
+#header-nav.fixed-top a.newlink{
+  color:rgb(234 217 217) !important;
+}
